@@ -1,0 +1,10 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+access_token.json
+__pycache__/
+.env
+*.cfg
+*.pyc
+.DS_Store
+/bin
+/include
+/lib
